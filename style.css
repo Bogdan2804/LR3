@@ -1,0 +1,18 @@
+h1, h2, span {
+	color: red;
+}
+
+div p {
+	font-weight: 600;
+}
+
+ul li>span {
+	font-weight: 600;
+}
+
+ol li + li {
+	list-style: none;
+}
+h3 ⁓ h4 {
+	color: aqua;
+}
